@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/exploded-aar/AudioWaves/library/unspecified/jars/libs/TarsosDSP-Android-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2be865ebaace3abacc179679bf46f1a67270597c">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/TarsosDSP-Android-2.0-cbb2380f904071ad54b5c5c63a244681d34cd87d.jar" />
+    </item>
+    <item
+        jar="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-fad16868db7946b93d3e499426d596c8cc86f095.jar" />
+    </item>
+    <item
+        jar="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/classes-cfc9d8b6d613ad506fb1d23b92d21eb5fd62dcb4.jar" />
+    </item>
+    <item
+        jar="/home/soner/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-85ca6fa44685d3e0a0361c86ab6a85d855c56cc3.jar" />
+    </item>
+    <item
+        jar="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/exploded-aar/AudioWaves/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e4b766b2198f559c3dd62d73ac0bd9fe6491acf">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/classes-46bca74c60affabaebe18513b14db206d46a452b.jar" />
+    </item>
+    <item
+        jar="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/soner/Desktop/android_clones/AudioWaves/sample/build/intermediates/pre-dexed/debug/classes-1e149ed020b2c464ff3b8a6d41ea90437dc53fbb.jar" />
+    </item>
+
+</items>
